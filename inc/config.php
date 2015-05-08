@@ -10,11 +10,11 @@ $conf_mods_path = 'mod/';
 $conf_default_mod = 'home';
 
 // SETTINGS
-$conf_db_host = 'jc77photos.db.9132695.hostedresource.com';
+$conf_db_host = '127.0.0.1';
 $conf_db_type = 'mysql';
-$conf_db_name = 'jc77photos';
-$conf_db_user = 'dnJ3cmtzOjpmbQ==';
-$conf_db_pass = 'JlRHUTozOHVvZA==';
+$conf_db_name = 'fotos';
+$conf_db_user = 'bHNrc2x5ZG0=';
+$conf_db_pass = 'QHJkb09kN2RF';
 $conf_db_date_format = 'Y-m-d';
 $conf_db_datetime_format = 'Y-m-d H:i:s';
 
